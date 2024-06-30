@@ -20,3 +20,6 @@ echo ===========================================================================
 echo ============================================================================&echo.&echo Sorry, the server is busy and can't respond to your request. Please try again.&echo.
 :halt
 pause >nul
+
+
+Copy the entire code until "pause >nul", paste it into Notepad, save the file as "1click.cmd" on your desktop, and then right-click and choose "Run as administrator" on "1click.cmd". It will automatically activate your Windows 11.
